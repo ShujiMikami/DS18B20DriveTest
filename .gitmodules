@@ -1,0 +1,3 @@
+[submodule "OneWireTest/UserModules/OneWireDriver"]
+	path = OneWireTest/UserModules/OneWireDriver
+	url = https://github.com/ShujiMikami/OneWireDriver.git
