@@ -1,3 +1,6 @@
 [submodule "OneWireTest/UserModules/OneWireDriver"]
 	path = OneWireTest/UserModules/OneWireDriver
 	url = https://github.com/ShujiMikami/OneWireDriver.git
+[submodule "OneWireTest/UserModules/DS18B20Driver"]
+	path = OneWireTest/UserModules/DS18B20Driver
+	url = https://github.com/ShujiMikami/DS18B20Driver.git
